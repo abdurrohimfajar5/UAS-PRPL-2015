@@ -1,0 +1,71 @@
+@charset "utf-8";
+body {
+	background-color: #900;
+}
+#container {
+	background-color: #FFF;
+	margin: auto;
+	padding: 20px;
+	height: auto;
+	width: 960px;
+	border-radius: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#container h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #900;
+	background-color: #FC3;
+	padding: 20px;
+	border-radius: 8px;
+}
+#container table th {
+	padding: 10px;
+	background: #FFC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: left;
+ 	border: thin solid #CCC;
+}
+#container table td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+	border: thin solid #CCC;
+	vertical-align: top;
+}
+.entry {
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	border: thin solid #F30;
+	border-radius: 3px;
+	min-width:200px;
+}
+.entry_title {
+	padding-top: 3px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	border: thin solid #F30;
+	border-radius: 3px;
+	min-width:200px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #00F;
+}
+.warning {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #900;
+	background-color: #FF9;
+	padding: 5px;
+	border: thin solid #900;
+	border-radius: 3px;
+}

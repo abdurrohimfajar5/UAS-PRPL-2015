@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsSearch" value="name:nama;datatype:string,name:unit;datatype:string,name:kompname;datatype:string,name:ip;datatype:string,name:sn;datatype:string" />
+</info>

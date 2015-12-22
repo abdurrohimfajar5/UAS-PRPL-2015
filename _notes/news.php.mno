@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsView" value="name:ID;datatype:int,name:title;datatype:blob,name:category;datatype:string,name:content;datatype:blob,name:updated;datatype:timestamp" />
+	<infoitem key="UD_rsNews" value="name:ID;datatype:int,name:title;datatype:blob,name:category;datatype:string,name:content;datatype:blob,name:updated;datatype:timestamp" />
+	<infoitem key="UD_rsDetail" value="name:ID;datatype:int,name:title;datatype:blob,name:category;datatype:string,name:content;datatype:blob,name:updated;datatype:timestamp" />
+	<infoitem key="UD_rsKomentar" value="name:id_komentar;datatype:int,name:id_post;datatype:int,name:nama;datatype:string,name:email;datatype:string,name:komentar;datatype:blob,name:approval;datatype:string,name:tanggal;datatype:timestamp" />
+</info>
